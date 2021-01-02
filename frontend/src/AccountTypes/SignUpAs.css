@@ -1,0 +1,16 @@
+.main-heading{
+    font-size: 1.5rem
+}
+.type-card {
+    background-color: #ccccb3;
+    margin: 1%;
+    height: 20vh;
+    padding: 50px 0px;
+    border: 2px solid #d6d6c2;
+    
+}
+.type-card:hover{
+    box-shadow: 5px 5px #888888;
+
+}
+

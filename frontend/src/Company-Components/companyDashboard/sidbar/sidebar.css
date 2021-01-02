@@ -1,0 +1,12 @@
+.notification {
+    background-color: #2c2b2b;
+    color: #fff;
+    width: 200px;
+    border-radius: 100%;
+    padding: 2px 7px;
+    font-size: 12px;
+}
+.list-group-item{
+    color: #000;
+    font-weight: 500;
+}

@@ -1,0 +1,89 @@
+.btn-available {
+   
+    width: 40%;
+    height: 5%;
+    margin-left: 40px;
+    border: 1px solid #000;
+    color: #000;
+    border-bottom-left-radius: 5px !important;
+    border-top-left-radius: 5px;
+}
+.btn-won {
+    border: 1px solid #4A4A4A;
+    width: 150px;
+}
+.btn-lost {
+    border: 1px solid #4A4A4A;
+    width: 150px;
+}
+.apply-div {
+    background-color: #F0F0F0;
+    margin-top: 20px;
+    margin-left: 2.5rem;
+    width: 80%;
+}
+.row-ms {
+    margin-left: 1px;
+}
+.square-list li {
+    display: inline-block;
+    padding: 0px 15px;
+}
+
+.fa-square:before {
+    color: #CBCBCB;
+}
+
+.row-m {
+    margin-left: -54px;
+}
+
+.hr-tag {
+    margin-top: -2.5rem !important;
+}
+.dummy {
+    margin-top: -1.0rem !important;
+    font-size: 12px;
+    color: #AEAEAE;
+}
+.apply-btn {
+    margin-top: -190px;
+}
+.row-c {
+    margin-left: -70px;
+}
+
+.btn-app {
+    border: 1px solid #0c0c0c;
+    color: #ffffff;
+    background-color: #4A4A4A;
+    height: 5vh;
+    width: 50%
+}
+
+.btn-left {
+    border: 1px solid #0c0c0c;
+    color: #ffffff;
+    background-color: #4A4A4A;
+    height: 5vh;
+    font-size: small;
+    width: 92%;
+}
+.row-mk {
+    margin-left: 1px;
+}
+.app-col1 {
+    margin-right: -20rem !important;
+    margin-top: -6.5rem !important;
+}
+.button-active{
+    background-color: #4A4A4A;
+    color:#fff;
+
+}
+#won-screen{
+    display: none;
+}
+#lost-screen{
+    display: none;
+}

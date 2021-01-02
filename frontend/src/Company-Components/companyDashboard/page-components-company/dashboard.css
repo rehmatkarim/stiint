@@ -1,0 +1,50 @@
+.user-class {
+    font-size: 94px;
+    margin-left: 0px;
+    margin-top: 15px;
+    position: relative;
+    color: #616161;
+}
+.hrf-l {
+    color: #ffffff;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1rem;
+    position: absolute;
+    margin-top: 46px;
+    margin-left: 29px;
+}
+.heading-content-box {
+    margin-left: 40px;
+}
+.square-list1 li {
+    display: inline-block;
+    padding: 0px 65px;
+    font-size: 12px;
+    margin-left: -105px;
+}
+.file-icon {
+    color: #B6B6B6;
+    font-size: 25px;
+}
+.hd {
+    font-size: 18px;
+}
+.hd1 {
+    font-size: 15px;
+}
+.btn-group-sm>.btn,
+.btn-sm {
+    padding: .25rem .5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+    width: auto;
+}
+.comp-dash-heading{
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+.bold-text{
+    font-weight: 500;
+}

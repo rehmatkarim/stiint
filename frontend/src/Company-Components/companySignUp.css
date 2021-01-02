@@ -1,0 +1,97 @@
+.span-text{
+    font-size: 0.8rem;
+}
+.inline-fields{
+    display: flex;
+    flex-direction: row;
+}
+.drop-down-box{
+    max-width: 30% !important;
+    padding-left: 0%;
+}
+.drop-down-button{
+    width: 100%;
+  
+    background-color: #fff;
+    color: #000;
+    height: 7vh;
+    text-align: left;
+}
+.dropdown-menu{
+    width: 100%;
+}
+.drop-down-button:hover{
+    background-color: #fff !important;
+    color: #000 !important;
+    outline-color: #4D4D4D !important ;
+    border-color: #4D4D4D !important;
+}
+.drop-down-button:active{
+    background-color: #fff !important;
+    color: #000 !important;
+    outline-color: #4D4D4D !important ;
+    border-color: #4D4D4D !important;
+    box-shadow: none !important;
+}
+.drop-down-button:focus{
+    background-color: #fff !important;
+    color: #000 !important;
+    outline-color: #4D4D4D !important ;
+    border-color: #4D4D4D !important;
+    box-shadow: none !important;
+  
+}
+.city-box{
+    width: 100%;
+    padding-right: 0%;
+    
+}
+.form-input {
+    height: 7vh;
+}
+.dropdown-toggle::after {
+    position: absolute ;
+    top: 25px;
+    right: 10px !important;
+    
+}
+.custom-file-label{
+    height: 7vh !important;
+    line-height: 35px;
+}
+.custom-file-label:active{
+    outline: none;
+    box-shadow: none !important;
+    border: 2px solid #4D4D4D !important;
+}
+.custom-file-label:focus{
+    outline: none;
+    box-shadow: none !important;
+    border: 2px solid #4D4D4D !important;
+}
+.custom-file-input:lang(en)~.custom-file-label::after {
+    content: "Upload" !important;
+    height: 24px;
+    padding: 0 20px;
+    background-color: #fff !important;
+    border: 1px solid #000;
+    border-radius: 5px;
+    top: 15px;
+    right: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 22px;
+}
+@media screen and (max-width: 768px) {
+    .drop-down-box{
+        max-width: 500px !important;
+        padding: 15px;
+       
+    }
+    .form-input{
+        max-width: 500px;
+    }
+    .city-box{
+        padding: 0 15px;
+    }
+  }

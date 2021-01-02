@@ -1,0 +1,38 @@
+.main-cls {
+    margin-left: 5%;
+    margin-right: 10%;
+}
+.card-body1 {
+    padding: 0 !important;
+}
+.mn-div {
+    display: flex;
+    flex-direction: row;
+}
+.heading-table1 {
+    margin-top: 35px;
+    margin-bottom: 18px;
+}
+.new-btn1 {
+    width: auto !important;
+    border-color: #D8D8D8 !important;
+    border-radius: 5px;
+    box-sizing: unset;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.new-btn {
+    width: auto !important;
+    border-color: #D8D8D8 !important;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius:.25rem;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+}
+.trash-class {
+    margin-left: 9px;
+    color: #DBDBDB;
+}

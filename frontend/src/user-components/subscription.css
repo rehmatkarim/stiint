@@ -1,0 +1,23 @@
+.card-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.fa-lock {
+    background-color: #4A4A4A;
+    width: 100%;
+    height: 5%;
+    margin-left: -5px;
+    border-radius: 10px;
+    color: white;
+}
+
+.fa-lock:before {
+    padding-right: 10px;
+    margin-left: 20px;
+}
+
+.lock-icon {
+    color: #E9E9E9;
+    width: 0% !important;
+}

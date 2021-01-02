@@ -1,0 +1,125 @@
+.btn-continue {
+    background-color: #555755;
+    color: white;
+    font-size: large;
+    padding: 9px 10px;
+    /* margin: 8px 0; */
+    border: none;
+    cursor: pointer;
+    width: auto;
+}
+
+.card-1 {
+    position: relative;
+    word-wrap: break-word;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+    margin-top: 5%;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+    background: none;
+}
+
+.map-container {
+    overflow: hidden;
+    /* padding-bottom: 56.25%; */
+    position: relative;
+    height: 25vh;
+}
+
+.map-container iframe {
+    left: 0;
+    top: 0;
+    height: 25vh;
+    width: 100%;
+    position: absolute;
+}
+
+.map {
+    color: grey;
+}
+
+.location-dropdown {
+    width: 100%;
+    margin-top: 0;
+}
+
+.loc-but {
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+    text-align: left;
+}
+
+.loc-but:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.loc-but:active {
+    background-color: #fff !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    outline: 0;
+}
+
+.loc-but:focus {
+    background-color: #fff;
+    color: #000;
+    box-shadow: none !important;
+    outline: 0;
+}
+
+.dropdown-toggle::after {
+    position: absolute;
+    top: 26px;
+    right: 10px;
+}
+
+.dropdown-menu {
+    width: 100%;
+}
+
+.div-row {
+    background-color: #F0F0F0;
+}
+
+.gj-datepicker-bootstrap [role=right-icon] button {
+    width: 38px;
+    position: relative;
+    border-left: none;
+    top: 0;
+    margin: 0%;
+    background-color: #fff;
+}
+
+.datepicker {
+    border-right: none;
+    height: 4vh;
+}
+
+.btn-add {
+    border: 1px dashed;
+    width: 100%;
+    background-color: #F9F9F9;
+}
+
+.btn-continue {
+    background-color: #4A4A4A;
+    width: 35%;
+    height: 5%;
+}
+.intl-tel-input{
+    width: 100%;
+}
+.date-box{
+    height: 38px;
+    width:100%;
+}

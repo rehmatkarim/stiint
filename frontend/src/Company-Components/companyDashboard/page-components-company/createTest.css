@@ -1,0 +1,58 @@
+.create-class {
+    margin-bottom: 0px !important;
+}
+.inner-wrap0 {
+    display: flex;
+}
+.card-time {
+    background-color: #ECECEC;
+    padding: 15px;
+    margin-left: 4%;
+}
+.mid-m {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 56px;
+}
+.class1 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 56px;
+}
+.class2 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 56px;
+}
+.class3 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 56px;
+}
+.class4 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 56px;
+}
+.class-1-0 {
+    width: 90% !important;
+}
+
+.class0 {
+    width: 83% !important;
+}
+.email-field::placeholder {
+    font-size: 0.7rem;
+}
+.button-1 {
+    width: 0 !important;
+}
+.btn-savetest {
+    padding: 5px 46px;
+    display: block;
+    background-color: #4A4A4A;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 72px;
+}

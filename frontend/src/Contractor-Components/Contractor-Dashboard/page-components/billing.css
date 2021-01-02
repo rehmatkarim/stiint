@@ -1,0 +1,31 @@
+.top-cards {
+    position: relative;
+    display: inline-flex;
+    /* margin-top: 100px; */
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
+
+.heading-row {
+    margin-top: 6%;
+}
+
+.btn-primary-outline {
+    background-color: transparent;
+    border-color: #ccc;
+    border-radius: 10px;
+}
+.notification {
+    background-color: #2c2b2b;
+    color: #fff;
+    width: 200px;
+    border-radius: 100%;
+    padding: 2px 7px;
+    font-size: 12px;
+}
